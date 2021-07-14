@@ -1,1 +1,2 @@
 mynewfile
+my first line in the file
