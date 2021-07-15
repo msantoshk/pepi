@@ -1,3 +1,0 @@
-mynewfile
-my first line in the file
-this is my last chnage
