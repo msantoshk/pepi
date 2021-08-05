@@ -1,3 +1,3 @@
 function myFunction() {
-    alert("Hello i am Anita");
+    alert("I am Anita");
   }
